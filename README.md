@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# morse_code
-This app, is to be used by users whom are getting tired of decrypting messages manually. This process is automated in this app to break morse code for the user.
+# Enumerables
+This is the first project we'll be using ruby modules 'MyEnumerable' to implement othe functionality 'Enumerable'.
 
 ## Built With
 RUBY
@@ -39,7 +39,7 @@ ruby
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Roseokpe/vet_clinic/issues).
+Feel free to check the [issues page](https://github.com/Fadahunsiseyi/enumerable/issues).
 
 ## Show your support
 
