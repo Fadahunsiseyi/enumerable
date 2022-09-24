@@ -6,7 +6,7 @@ class List
     @lists = args
   end
 
-def each
+  def each
     @lists.each { |list| yield list if block_given? }
   end
 end
